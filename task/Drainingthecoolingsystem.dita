@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="drainingthecoolingsystem">
+    <title>Draining the cooling system</title>
+    <shortdesc>After the second winter of running your vehicle, drain the cooling system and refill
+                it with fresh water. Add the anti-freeze when required. </shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-26"/>
+        </critdates>
+  <metadata> <keywords> <indexterm>cooling</indexterm> <indexterm>maintenance</indexterm></keywords> </metadata>
+   </prolog>
+    <taskbody>
+        <context>
+                    <p>There are two drain taps for draining the cooling system:<ul id="ul_dyz_p3s_w4">
+                    <li>at the base of radiator on the forward side</li>
+                    <li>on the rear of the cyclinder block.</li>
+                </ul></p>
+            <p>Both taps are accessible from under the bonnet. <fig id="fig_radiatordraintaps">
+                    <title>Radiator drain taps</title>
+                    <image href="../image/DrainTap.png" id="image_ums_gxk_gp"><alt>Radiator drain taps</alt></image>
+               
+
+                </fig></p>
+            
+            <p>Some vehicles are fitted with a drain plug instead of a tap. This plug must be
+                removed to drain the radiator.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open both taps and remove the filler cap to drain the cooling system
+                    completely.</cmd>
+                <stepresult><note type="tip">Collect any anti-freeze in a clean container for future use.</note></stepresult>
+            </step>
+            <step>
+                <cmd>Insert a hose in the filling orifice and allow water to flow through the system until
+                    clean.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

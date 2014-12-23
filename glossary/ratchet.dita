@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="ratchet">
+  <glossterm>Ratchet</glossterm>
+  <glossdef>A device made of a set of teeth in which a cog or another tooth engages, allowing motion in one direction only.</glossdef>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-09-18"/>
+    </critdates>
+  </prolog>
+</glossentry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="closingthebonnet">
+    <title>Closing the bonnet</title>
+    <shortdesc>Always ensure the bonnet is securely fastened to prevent it opening whilst
+                        the vehicle is in motion, which could obscure the windshield and driver vision.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-15"/>
+        </critdates>
+    <metadata> <keywords> <indexterm>bonnet</indexterm> </keywords> </metadata>
+ </prolog>
+    <taskbody>
+        <context>
+            <p>
+                <note conref="../snippets/leftright.dita#ReusableComponent_vfv_2g4_j4/leftrightnote"
+                />
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Raise the bonnet slightly to clear the prop.</cmd>
+            </step>
+            <step>
+                <cmd>Stow the prop in the clip.</cmd>
+            </step>
+            <step>
+                <cmd>Lower the bonnet to engage the safety catch.</cmd>
+            </step>
+            <step>
+                <cmd>Apply hand pressure to press the bonnet fully into the closed position.</cmd>
+                <stepresult>You will hear the saftey catch and bonnet lock
+                    engage.<note type="warning">Always drive with the bonnet closed.</note>
+                </stepresult>
+            </step> 
+        </steps>
+       
+    </taskbody>
+</task>

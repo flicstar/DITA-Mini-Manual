@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="adjustingheatSaloon" product="Saloon">
+   <title>Adjusting the heat - Saloon</title>
+  <shortdesc>Use the heater thermostat dial to adjust the temperature of the heater.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-07-12"/>
+    </critdates>
+ <metadata> <keywords> 
+   <indexterm>heater  <indexterm>thermostat</indexterm></indexterm>
+ </keywords> </metadata> </prolog>
+  <taskbody>
+    <context><p>The thermostat dial is located on the left of the control panel.</p></context>
+      <steps-unordered id="steps-unordered_ehh_wlj_mp">
+        <step>
+          <cmd>The first few degrees of movement of the switch operate the heater motor at maximum
+            speed.</cmd>
+        </step>
+        <step>
+          <cmd>Turn the switch knob further to gradually reduce the speed of the blower to regulate the
+            heating of the vehicle interior.</cmd>
+        </step>
+      </steps-unordered>
+    
+</taskbody>
+</task>

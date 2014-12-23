@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="antifreezeamounts">
+  <title>Anti-freeze amounts</title>
+  <shortdesc>The amount of anti-freeze required depends on a few things.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-07-26"/>
+    </critdates>
+  <metadata> <keywords> 
+    <indexterm>heater  <indexterm>anti-freeze amounts</indexterm></indexterm>
+    <indexterm>corrosion</indexterm></keywords> </metadata>
+ </prolog>
+  <refbody>
+    <section>
+      <p>Use ethylene glycol anti-freeze incorporating the correct type of corrosion inhibitor.
+        Bluecol Anti-freeze brand is recommended, or any anti-freeze which conforms to Specification
+        B.S. 3152 or B.S. 3152.</p>
+      <p>The amounts of anti-freeze quoted in this table apply to vehicles fitted with a heater. For
+        vehicles without a heater the amounts can be reduced using the Solution % column to
+        calculate the amount required.<table frame="all" rowsep="1" colsep="1" id="table_izl_nms_w4">
+                  <tgroup cols="6" align="left">
+            <colspec colname="c1" colnum="1" colwidth="1.47*"/>
+            <colspec colname="c2" colnum="2" colwidth="1.03*"/>
+            <colspec colname="c3" colnum="3" colwidth="1.55*"/>
+            <colspec colname="c4" colnum="4" colwidth="1.09*"/>
+            <colspec colname="c5" colnum="5" colwidth="1*"/>
+            <colspec colname="c6" colnum="6" colwidth="2.67*"/>
+            <thead>
+              <row>
+                <entry morerows="1">Solution %</entry>
+                <entry namest="c2" nameend="c3">Commences freezing at</entry>
+                <entry namest="c4" nameend="c5">Absolute safe limit</entry>
+                <entry morerows="1">Quantity of anti-freeze required</entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>F</entry>
+                <entry>C</entry>
+                <entry>F</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>20</entry>
+                <entry>-9</entry>
+                <entry>16</entry>
+                <entry>-19</entry>
+                <entry>-3</entry>
+                <entry>1 1/4 (.71 litre)</entry>
+              </row>
+              <row>
+                <entry>25</entry>
+                <entry>-13</entry>
+                <entry>9</entry>
+                <entry>-26</entry>
+                <entry>-15</entry>
+                <entry>1 1/2 pts (.85 litre)</entry>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>-16</entry>
+                <entry>3</entry>
+                <entry>-33</entry>
+                <entry>-28</entry>
+                <entry>2 pts (1.14 litres)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table></p>
+    </section>
+  </refbody>
+</reference>
+
+<?oxy_options track_changes="on"?>

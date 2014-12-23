@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="gauges">
+  <title>Temperature gauge</title>
+  <shortdesc>The temperature gauge monitors the temperature of the engine coolant.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-06"/>
+    </critdates>
+   <metadata> <keywords>
+     <indexterm>gauges  <indexterm>temperature gauge</indexterm></indexterm>
+          <indexterm>instruments</indexterm> </keywords> </metadata>
+</prolog>
+  <conbody>
+      
+
+      <p>The temperature gauge is located to the left of the speedometer. Not all models have this
+        gauge fitted.</p>
+      <p>When the engine is off, the needle is in the cold position. </p>
+      <p>The needle will rise during the initial warm-up period of the engine. After the engine is
+        warm, any sudden upward change in the temperature gauge requires immediate attention. Stop
+        the engine and contact your licensed dealer.</p>
+  </conbody>
+</concept>

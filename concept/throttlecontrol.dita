@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="throttlecontrol">
+  <title>Throttle control</title>
+  <shortdesc>The throttle regulates the mixture of fuel and air being burned by the engine. Increase the throttle to increase the speed or power of the engine..</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-06-22"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>throttle</indexterm> <indexterm>controls</indexterm></keywords> </metadata>
+ </prolog>
+  <conbody>
+    <p>The throttle control is operated by the first ¼ in (6.35mm) of movement of the choke. FB:
+      link here to choke.</p>
+    <p>This initial movement can be used to give a fast engine idling speed and prevent stalling
+      when driving at low speeds before the engine has fully warmed up. </p>
+    <p>Using the throttle control in this way is not detrimental to the engine. <note
+        conref="../snippets/choke.dita#ReusableComponent_p5r_ynd_n4/note_q5r_ynd_n4"/></p>
+  </conbody>
+</concept>
+
+

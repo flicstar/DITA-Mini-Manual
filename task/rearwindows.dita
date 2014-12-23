@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="openingrearwindows" product="Traveller">
+    <title>Opening rear windows</title>
+    <shortdesc>The rear windows slide open to allow fresh air to circulate while
+        driving.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-15"/>
+        </critdates>
+  <metadata> <keywords> <indexterm>windows</indexterm> </keywords> </metadata>  </prolog>
+    <taskbody>
+        <context>
+            <p>The glasses in the rear windows operate in sliding channels.<note type="attention"
+                    >When locking the vehicle make sure that the window tabs are in the locked
+                    position.</note><fig id="fig_rearwindow">
+                    <title>Rear windows</title>
+                    <image href="../image/RearWindow.png" id="image_rearwindow">
+                        <alt>The rear windows </alt>
+                    </image>
+                </fig></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To open the windows, fold the hinged locking tab inwards clear of the stop
+                    plate.</cmd>
+            </step>
+            <step>
+                <cmd>Use the hand-pull on the forward edge of the glass to pull the window to the
+                    required position.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

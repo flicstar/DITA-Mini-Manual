@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="horn">
+    <title>Sounding the horn</title>
+    <shortdesc>The horn makes a loud noise. Use the horn when required to alert pedestrians or other drivers of your presence on the road.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-06"/>
+        </critdates>
+ <metadata> <keywords> <indexterm>horn</indexterm> <indexterm>instruments</indexterm></keywords> </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>The horn will operate regardless of the ignition switch position.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Press the centre disc of the steering wheel.</cmd>
+                <stepresult>The horn sounds.</stepresult>
+            </step>
+            <step>
+                <cmd>Release the horn to stop the sound.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

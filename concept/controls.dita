@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Controls">
+  <title>Controls</title>
+  <shortdesc>The main controls include the pedals, gears and handbrake. </shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-08-30"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>controls</indexterm> </keywords> </metadata>
+ </prolog>
+  <conbody>
+    
+      
+      <fig id="fig_controls">
+        <p>
+        <imagemap>
+          <image href="../image/GearLeverPedals.png" id="image_gearlevelpedals"><alt>Gears, pedals and controls</alt>
+           </image>
+            <area>
+              <shape>rect</shape>
+              <coords>110, 104, 212, 213</coords>
+              <xref href="../task/usingpedalcontrols.dita">Accelerator pedal</xref>
+            </area>
+          <area>
+            <shape>rect</shape>
+            <coords>267, 128, 306, 257</coords>
+            <xref href="../task/usingpedalcontrols.dita">Brake pedal</xref>
+          </area>
+          <area>
+            <shape>rect</shape>
+            <coords>388, 171, 548, 240</coords>
+            <xref href="../task/usingpedalcontrols.dita">Clutch pedal</xref>
+          </area>
+          <area>
+            <shape>rect</shape>
+            <coords>274, 259, 319, 313</coords>
+            <xref href="starterswitch.dita">Starter switch</xref>
+          </area>
+          <area>
+            <shape>rect</shape>
+            <coords>327, 213, 378, 279</coords>
+            <xref href="../task/usinghandbrake.dita">Hand brake</xref>
+          </area>
+          <area>
+            <shape>rect</shape>
+            <coords>411, 32, 481, 101</coords>
+            <xref href="../task/changinggears.dita">Gear lever</xref>
+          </area>
+          <area>
+            <shape>rect</shape>
+            <coords>486, 28, 569, 82</coords>
+            <xref href="../task/dippingheadlightbeams.dita">Headlight dip
+              switch</xref>
+          </area>
+          <area>
+            <shape>rect</shape>
+            <coords>306, 130, 335, 198</coords>
+            <xref href="../task/indicatingturning.dita">Direction indicator warning
+              light</xref>
+          </area>
+          </imagemap>
+        </p>
+        <p>
+          <table frame="all" rowsep="1" colsep="1" id="table_controls">
+            <tgroup cols="2">
+            <colspec colname="c1" colnum="1" colwidth="1*"/>
+            <colspec colname="c2" colnum="2" colwidth="8.09*"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry><xref href="../task/usingpedalcontrols.dita">Accelerator pedal</xref></entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry><xref href="../task/usingpedalcontrols.dita">Brake pedal</xref></entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry><xref href="../task/usingpedalcontrols.dita">Clutch pedal</xref></entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry><xref href="starterswitch.dita">Starter switch</xref></entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry><xref href="../task/usinghandbrake.dita">Hand brake</xref></entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry><xref href="../task/changinggears.dita">Gear lever</xref></entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry><xref href="../task/dippingheadlightbeams.dita">Headlight dip
+                  switch</xref></entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry><xref href="../task/soundinghorn.dita">Horn</xref></entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry><xref href="../task/indicatingturning.dita">Direction
+                  indicator</xref></entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry><xref href="../task/indicatingturning.dita">Direction indicator warning
+                    light</xref></entry>
+              </row>
+            </tbody>
+          </tgroup>
+          </table>
+        </p>
+      </fig>
+    
+  </conbody>
+</concept>

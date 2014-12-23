@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="openbonnet">
+    <title>Opening the bonnet</title>
+    <shortdesc>Open the bonnet when you need to access the engine. It has two separate mechanisms to ensure it is securely fastened, so it is important you are familiar with how to open it.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-13"/>
+        </critdates>
+  <metadata> <keywords> <indexterm>bonnet</indexterm> </keywords> </metadata>
+   </prolog>
+    <taskbody>
+        <context>
+            
+            <note conref="../snippets/leftright.dita#ReusableComponent_vfv_2g4_j4/leftrightnote"/>
+            <note>When the bonnet is open, ensure the release lever and safey catch are well
+                lubricated.</note>
+        </context>
+        <steps id="steps_lps_3wb_t4">
+            <step>
+                <cmd>Insert a finger in the centre top louvre of the radiator shell. </cmd>
+            </step>
+            <step>
+                <cmd>Move the release lever toward the right-hand side of the vehicle. </cmd>
+                <info>Push down on the bonnet with your other hand to assist movement of the
+                    lever.</info>
+                <stepresult>The bonnet is released but is still held by the safety
+                    catch.</stepresult>
+            </step>
+            <step>
+                <cmd>Push the safety catch inwards and raise the bonnet.</cmd>
+            </step>
+            <step>
+                <cmd>Hold the bonnet in the open position with your hand while you get the prop
+                    ready with your other hand.</cmd>
+            </step>
+            <step>
+                <cmd>Detach the prop from the rubber clip on the right-hand side. </cmd>
+            </step>
+            <step>
+                <cmd>Secure the prop in the support bracket on the right-hand valance.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

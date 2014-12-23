@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_morrissource">
+ <title>Conref Source for Branding Information (Morris)</title>
+ <shortdesc>Do not use this topic in a map. It is a transclusion source for conref and
+  conkeyref.</shortdesc>
+ <prolog> <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+  <critdates>
+   <created date="2014-07-13"/>
+  </critdates></prolog>
+ <conbody>
+  <table frame="all" rowsep="1" colsep="1" id="table_ekz_wvn_np">
+   <title>Brand Names</title>
+   <tgroup cols="2">
+    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+    <thead>
+     <row>
+      <entry>Description</entry>
+      <entry>Reuse Element</entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry>Brand name used for the station wagon or estate</entry>
+      <entry><keyword id="estate_model_name">Traveller</keyword></entry>
+     </row>
+     <row>
+      <entry>Badge</entry>
+      <entry><image href="image/Morris_badge.png" id="badge"/></entry>
+     </row>
+     <row>
+      <entry/>
+      <entry/>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+  <p></p>
+ </conbody>
+</concept>

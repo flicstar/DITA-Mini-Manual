@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="heatershutterSaloon" product="Saloon">
+   <title>Operating the heater shutter - Saloon</title>
+  <shortdesc>The heater unit box has a shutter which you can manually operate to circulate hot air in the vehicle.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-07-12"/>
+    </critdates>
+ <metadata> <keywords> 
+   <indexterm>heater  <indexterm>shutter</indexterm></indexterm>
+ </keywords> </metadata> </prolog>
+  <taskbody>
+   <context>
+         <p>The heater unit box is located under the control panel and is hand-operated. </p>
+     <note>The blower only circulates interior air. It does not introduce fresh air into the
+       vehicle.</note>
+     <note type="tip">The heater unit box is not always cold when the heater is off because a
+       certain amount of heat is always transfered to it from the engine.</note>
+     <fig id="fig_heaterboxshutter">
+       <title>Heater box shutter</title>
+       <image href="../image/HeaterBoxShutter.png" id="image_HeaterBoxShutter"/>
+     </fig>
+   </context>
+<steps-unordered id="ul_a3j_ly5_s4">
+            <step>
+  <cmd> Pull the shutter fully upwards to give maximum flow of hot air for interior
+          heating.</cmd></step>
+  
+<step>
+  <cmd> Push the shutter fully downwards to deflect hot air onto the windshield for
+          demisting.</cmd></step>
+ </steps-unordered>
+ 
+ 
+      
+</taskbody>
+</task>

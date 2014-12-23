@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="choke">
+    <title>Choke</title>
+    <shortdesc>The choke enriches the petrol mixture and is used to start the car in cold weather,
+        or when the engine is cold,.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+        <critdates>
+            <created date="2014-06-22"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>choke</indexterm>
+                <indexterm>controls</indexterm>
+                <indexterm>petrol</indexterm>
+                <indexterm>starter switch</indexterm>
+                <indexterm>starting</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+      <conbody>
+            <p>The choke is the knob on the right of the control panel marked 'C'. </p>
+            <p>When you pull out the choke knob, it gives a progressively richer mixture of air and
+                petrol to the engine.</p>
+            <p>The choke will hold in any position. </p>
+            <p>Depending on the weather, push the choke knob fully in or in to the 'weak' position
+                as soon as the engine has warmed up. </p>
+            <ul id="ul_icf_fgj_mp">
+                <li> In cold weather, wait for the engine to run for several minutes with the choke
+                pushed in to the 'weak' position.</li>
+            <li>In warm weather push the choke control knob fully in almost immediately. </li>
+            </ul> <note
+                        conref="../snippets/choke.dita#ReusableComponent_p5r_ynd_n4/note_q5r_ynd_n4"
+                    />
+                
+      </conbody>
+</concept>

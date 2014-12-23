@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="removinghubcovers">
+    <title>Removing hub covers</title>
+    <shortdesc>You need to remove the hub cover when you want to undo the wheel nuts to change a
+        wheel. Use the wheelbrace tool and a special technique to remove the wheel hub
+        cover.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>wheels</indexterm> </keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context/>
+        <steps>
+            <step product="Saloon">
+                <cmd>Insert the flattened end of the wheelbrace into one of the recesses between the
+                    edge of the cover and the road wheel.</cmd>
+            </step>
+            <step product="Saloon">
+                <cmd>Use a sideways motion with the wheelbrace to prise off the cover.</cmd>
+                <stepresult>
+                    <note type="warning">Do not use an upward levering motion.</note>
+                </stepresult>
+            </step>
+            <step product="Traveller">
+                <cmd>Insert the flattened end of the wheelbrace between the lip of the cover and
+                    wheel rim.</cmd>
+            </step>
+            <step product="Traveller">
+                <cmd>Using the tyre as a fulcrum at a point diametrically opposite the tyre valve,
+                    ever the cover away from the wheel.</cmd>
+            </step>
+          
+        </steps>
+    </taskbody>
+</task>

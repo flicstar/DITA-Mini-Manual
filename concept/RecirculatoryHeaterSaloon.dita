@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="recircheaterTraveller" product="Saloon">
+  <title>Recirculatory Heater - Saloon</title>
+  <shortdesc>The heater is used to heat the interior of the vehicle to let
+    you drive in comfort during cold weather. It can also be used to defrost the
+    windshield. The Saloon model has a recirculatory heater which uses the engine to warm and recirculate air inside the vehicle.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-09-18"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <indexterm>heater</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The heater works by using hot water from the engine cooling system to warm the air, and uses
+      a blower to circulate the air through the interior of the vehicle.</p>
+    <p>Use the heater in cold weather to warm and circulate the interior air. You can also use the
+      heater to provide a current of hot air onto the windshield for demisting.<note type="note">The
+        heater blower only operates when the engine is switched on.</note></p>
+    <p>There are three controls to operate the heater: a temperature dial, a shutter on the heater
+      unit box and a control valve.</p>
+  </conbody>
+</concept>

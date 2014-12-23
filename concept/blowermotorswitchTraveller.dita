@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="blowermotorswitchTraveller" product="Traveller">
+  <title>Blower motor switch - <keyword conkeyref="brand/estate_model_name"
+    >Countryman</keyword></title>
+  <shortdesc>The blower motor greatly increases the volume of heat output by increasing the supply of
+    air to the heater unit.</shortdesc>
+ 
+<prolog>
+  <author>Felicity Brand</author> 
+  <copyright>
+    <copyryear year="2014"></copyryear>
+    <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+  </copyright>  
+  <critdates>
+      <created date="2014-09-22"/>
+    </critdates>
+  </prolog> <conbody>
+    <p>The blower motor switch is located under the shutter control lever. It operates with a
+      side-to-side movement.</p>
+    
+    <p>Switch on the blower motor when maximum performance from the heater or ventilation system
+      is required. It can also be used when travelling at low speed to compensate for lack of ram
+      air effect (air intake to keep the engine cool).</p>
+    <note type="tip">If you notice unpleasant odours drawn in from the outside, switch off the
+      blower motor and set the shutter control lever to OFF until outside conditions
+      improve.</note>
+ </conbody>
+</concept>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Morris Mini Owner's Manual" id="MiniOwnersManual">
+ <title>Morris Mini Owner's Manual</title>
+ <topicmeta>
+  <shortdesc>This manual explains the operation and maintenance of the Morris Mini Saloon and Traveller (Austin Countryman).</shortdesc>
+  <author type="creator">Felicity Brand</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+  </copyright>
+ </topicmeta>
+ <topicref href="concept/MorrisMiniMinor.dita">
+  <topicref href="concept/Introduction.dita"/>
+  <topicref href="concept/technicalinformation.dita">
+   <topicref href="reference/Dimensions.dita"/>
+   <topicref href="reference/Specifications.dita"/>
+  </topicref>
+  <topicref href="concept/controlsinstrumentsswitches.dita">
+   <topicref href="concept/controls.dita"/>
+   <topicref href="concept/instrumentsSaloon.dita"/>
+   <topicref href="concept/instrumentsTraveller.dita"/>
+   <topicref href="concept/starterswitch.dita"/>
+   <topicref href="concept/choke.dita"/>
+   <topicref href="concept/ignitionwarninglight.dita"/>
+   <topicref href="concept/instrumentlights.dita"/>
+   <topicref href="concept/oilpressurelight.dita"/>
+   <topicref href="concept/fuelgauge.dita"/>
+   <topicref href="concept/temperaturegauge.dita"/>
+   <topicref href="concept/oilpressuregauge.dita"/>
+  </topicref>
+  <topicref href="concept/Starting.dita">
+   <topicref href="task/startingthecar.dita"/>
+   <topicref href="task/startingwhencold.dita"/>
+  </topicref>
+  <topicref href="concept/Driving.dita">
+   <topicref href="task/usingpedalcontrols.dita"/>
+   <topicref href="task/changinggears.dita"/>
+   <topicref href="task/usinghandbrake.dita"/>
+   <topicref href="task/soundinghorn.dita"/>
+   <topicref href="task/usingwindshieldwipers.dita"/>
+   <topicref href="task/indicatingturning.dita"/>
+   <topicref href="task/turningonheadlights.dita"/>
+   <topicref href="task/dippingheadlightbeams.dita"/>
+   <topicref href="concept/wetbrakes.dita"/>
+   <topicref href="concept/Running-inspeeds.dita"/>
+  </topicref>
+  <topicref href="concept/CarBody.dita">
+   <topicref href="concept/seatbelts.dita"/>
+   <topicref href="task/Fasteningseatbelts.dita"/>
+   <topicref href="task/Releasingseatbelt.dita"/>
+   <topicref href="concept/doorlocks.dita"/>
+   <topicref href="concept/luggagecompartment.dita"/>
+   <topicref href="task/openingthebonnet.dita"/>
+   <topicref href="concept/bonnetlock.dita"/>
+   <topicref href="task/closingthebonnet.dita"/>
+   <topicref href="task/openingfrontwindows.dita"/>
+   <topicref href="task/openingrearwindows.dita"/>
+  </topicref>
+  <topicref href="concept/RecirculatoryHeaterSaloon.dita">
+   <topicref href="task/adjustingheatSaloon.dita"/>
+   <topicref href="task/OperatingheatershutterSaloon.dita"/>
+   <topicref href="concept/HeaterControlValveSaloon.dita"/>
+  </topicref>
+  <topicref href="concept/freshairheater.dita">
+   <topicref href="task/adjustingheatTraveller.dita"/>
+   <topicref href="concept/shuttercontrolleverTraveller.dita"/>
+   <topicref href="concept/blowermotorswitchTraveller.dita"/>
+  </topicref>
+  <topicref href="concept/CoolingSystem.dita">
+   <topicref href="task/Drainingthecoolingsystem.dita"/>
+   <topicref href="task/Fillingthecoolingsystem.dita"/>
+   <topicref href="reference/antifreezeamounts.dita"/>
+   <topicref href="task/releasingpressure.dita"/>
+   <topicref href="task/addingantifreeze.dita"/>
+  </topicref>
+  <topicref href="concept/JackingandWheelRemoval.dita">
+   <topicref href="task/jackingthecar.dita"/>
+   <topicref href="task/changingawheel.dita"/>
+   <topicref href="task/removinghubcovers.dita"/>
+   <topicref href="task/fittinghubcovers.dita"/>
+  </topicref>
+  <topicref href="concept/CleaningandCare.dita">
+   <topicref href="task/cleaningtheexterior.dita"/>
+   <topicref href="task/cleaningtheinterior.dita"/>
+   <topicref href="task/cleaningtheexteriortrim.dita"/>
+   <topicref href="task/cleaningthewoodwork.dita"/>
+  </topicref>
+  <topicref href="reference/Lubrication.dita"/>
+  <topicref href="concept/ServicingWarranty.dita"/>
+  <topicref href="reference/identifcationnumbers.dita"/>
+  <topichead navtitle="Glossary">
+   <topicref href="glossary/BMC.dita"/>
+   <topicref href="glossary/ratchet.dita"/>
+   <topicref href="glossary/scotch.dita"/>
+   <topicref href="glossary/tdc.dita"/>
+  </topichead>
+  <keydef href="conref_source_morris.dita" keys="brand"/>
+   <mapref href="map_glossary.ditamap" format="ditamap"/>
+ </topicref>
+ <reltable>
+  <relheader>
+   <relcolspec type="concept"/>
+   <relcolspec type="task"/>
+   <relcolspec type="reference"/>
+  </relheader>
+  <relrow>
+   <relcell>
+    <topicgroup collection-type="family">
+     <topicref href="concept/technicalinformation.dita"/>
+    </topicgroup>
+   </relcell>
+   <relcell/>
+   <relcell>
+    <topicref href="reference/Dimensions.dita"/>
+    <topicref href="reference/Specifications.dita"/>
+   </relcell>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/controlsinstrumentsswitches.dita"/>
+    <topicref href="concept/instrumentsSaloon.dita"/>
+    <topicref href="concept/instrumentsTraveller.dita"/>
+    <topicref href="concept/starterswitch.dita"/>
+    <topicref href="concept/choke.dita"/>
+    <topicref href="concept/ignitionwarninglight.dita"/>
+    <topicref href="concept/instrumentlights.dita"/>
+    <topicref href="concept/oilpressurelight.dita"/>
+    <topicref href="concept/oilpressuregauge.dita"/>
+    <topicref href="concept/fuelgauge.dita"/>
+    <topicref href="concept/temperaturegauge.dita"/>
+   </relcell>
+   <relcell/>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/Starting.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/startingthecar.dita"/>
+    <topicref href="task/startingwhencold.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/Driving.dita"/>
+    <topicref href="task/indicatingturning.dita"/>
+    <topicref href="concept/wetbrakes.dita"/>
+    <topicref href="concept/Running-inspeeds.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/usingpedalcontrols.dita"/>
+    <topicref href="task/changinggears.dita"/>
+    <topicref href="task/usinghandbrake.dita"/>
+    <topicref href="task/soundinghorn.dita"/>
+    <topicref href="task/usingwindshieldwipers.dita"/>
+    <topicref href="task/turningonheadlights.dita"/>
+    <topicref href="task/dippingheadlightbeams.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/CarBody.dita"/>
+    <topicref href="concept/doorlocks.dita"/>
+    <topicref href="concept/luggagecompartment.dita"/>
+    <topicref href="concept/bonnetlock.dita"/>
+    <topicref href="concept/seatbelts.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/openingthebonnet.dita"/>
+    <topicref href="task/closingthebonnet.dita"/>
+    <topicref href="task/openingfrontwindows.dita"/>
+    <topicref href="task/openingrearwindows.dita"/>
+    <topicref href="task/Fasteningseatbelts.dita"/>
+    <topicref href="task/Releasingseatbelt.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/HeaterControlValveSaloon.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/adjustingheatSaloon.dita"/>
+    <topicref href="task/OperatingheatershutterSaloon.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/shuttercontrolleverTraveller.dita"/>
+    <topicref href="concept/blowermotorswitchTraveller.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/adjustingheatTraveller.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/CoolingSystem.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/Drainingthecoolingsystem.dita"/>
+    <topicref href="task/Fillingthecoolingsystem.dita"/>
+    <topicref href="task/releasingpressure.dita"/>
+    <topicref href="task/addingantifreeze.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="reference/antifreezeamounts.dita"/>
+   </relcell>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/JackingandWheelRemoval.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/jackingthecar.dita"/>
+    <topicref href="task/changingawheel.dita"/>
+    <topicref href="task/removinghubcovers.dita"/>
+    <topicref href="task/fittinghubcovers.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/CleaningandCare.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task/cleaningtheexterior.dita"/>
+    <topicref href="task/cleaningtheinterior.dita"/>
+    <topicref href="task/cleaningtheexteriortrim.dita"/>
+    <topicref href="task/cleaningthewoodwork.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept/ServicingWarranty.dita"/>
+   </relcell>
+   <relcell/>
+   <relcell>
+    <topicref href="reference/identifcationnumbers.dita"/>
+    <topicref href="reference/Lubrication.dita"/>
+   </relcell>
+  </relrow>
+ </reltable>
+</map>

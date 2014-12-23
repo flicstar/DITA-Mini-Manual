@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="IdentifcationNumbers">
+  <title>Identification Numbers</title>
+  <shortdesc>Unique identification numbers are stamped on the car, the engine and the transmission
+    case. They are used to identify your particular car.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-06-08"/>
+    </critdates>
+  </prolog>
+  <refbody>
+    <section>
+      <note conref="../snippets/quote.dita#quote/quote"/>
+    </section>
+ 
+      <table frame="all" rowsep="1" colsep="1" id="IDnumbers">
+    <title>Location of car part numbers</title>
+    <tgroup cols="2">
+      <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+      <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+      <thead>
+        <row>
+          <entry>Car part</entry>
+          <entry>Number location</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>Car number</entry>
+          <entry>Located on a plate mounted between the radiator and the left-hand wing
+            valance.</entry>
+        </row>
+        <row>
+          <entry>Engine number</entry>
+          <entry>Stamped on a metal plate fixed to the right-hand side of the cyclinder
+            block.</entry>
+        </row>
+        <row>
+          <entry>Transmission casing assembly number</entry>
+          <entry>Stamped on a facing provided on the casing just below the starter motor.</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+  </refbody>
+  
+  
+</reference>

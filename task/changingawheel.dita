@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="changingawheel">
+    <title>Changing a wheel</title>
+    <shortdesc>Change a wheel when the tyre is flat or damaged. You will need to use the jack to
+        raise the car, and typically you swap the flat wheel with the spare wheel.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>wheels</indexterm> <indexterm>tyres</indexterm></keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Apply the <xref href="usinghandbrake.dita">hand brake.</xref></cmd>
+            </step>
+            <step>
+                <cmd><xref href="removinghubcovers.dita#removinghubcovers">Remove the hub
+                        cover</xref> of the wheel you want to change.</cmd>
+            </step>
+            <step>
+                <cmd>Slacken the road wheel nuts on the wheel you want to change.</cmd>
+            </step>
+            <step>
+                <note>If the vehicle is on a hill, <term keyref="scotch">scotch</term> one or even two of the road wheels.</note>
+                <cmd><xref href="jackingthecar.dita#jackingthecar">Jack the car</xref>. </cmd>
+            </step>
+            <step>
+                <cmd>Remove the wheel and replace with the new wheel.</cmd>
+            </step>
+            <step>
+                <cmd>Replace the wheel nuts, ensuring that the tapered ends facd toward the
+                    wheel.</cmd>
+            </step>
+            <step>
+                <cmd>Lower the jack.</cmd>
+            </step>
+            <step>
+                <cmd>Fully tighten the wheel nuts in sequence 1, 3, 4, 2 (imagining them to be
+                    numbered 1 to 4 in rotation clockwise).</cmd>
+            </step>
+            <step>
+                <cmd><xref href="fittinghubcovers.dita#fittinghubcovers">Refit the hub
+                    cover</xref>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

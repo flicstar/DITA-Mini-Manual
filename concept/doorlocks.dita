@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="doorlocks">
+  <title>Door locks</title>
+  <shortdesc>The door locks let you lock the doors with a key to prevent others accessing your car.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-13"/>
+    </critdates> <metadata> <keywords> 
+      <indexterm>locks  <indexterm>door locks</indexterm></indexterm>
+    </keywords> </metadata>
+
+  </prolog>
+  <conbody>
+    <p>The driver's door is locked from the outside using the ignition key.</p>
+    <p>The passenger's door can be locked from the inside by lifting up the small safety catch on
+      the front of the door lock. </p>
+    <fig id="fig_doorlock">
+      <title>Safety catch on the inside passenger door</title>
+      <image href="../image/DoorLock.png" id="image_DoorLock">
+        <alt>Front door locks</alt>
+      </image>
+    </fig>
+  </conbody>
+</concept>

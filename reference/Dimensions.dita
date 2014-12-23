@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="dimensions">
+  <title>Dimensions</title>
+  <shortdesc>It is important to understand the dimensions of the vehicle including height and towing
+    weight so that you are aware of the limitations when driving.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <critdates>
+      <created date="${date(yyyy-MM-dd)}"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>dimensions</indexterm> </keywords> </metadata>
+ </prolog> 
+  <refbody>
+    <table frame="all" rowsep="1" colsep="1" id="table_ncd_rrv_h4">
+      <tgroup cols="2" align="left">
+        <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+        <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+        <thead>
+          <row>
+            <entry>Component</entry>
+            <entry>Details (metric)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Track (front)</entry>
+            <entry>47 in (1.205 m)</entry>
+          </row>
+          <row>
+            <entry>Track (rear)</entry>
+            <entry>45 in (1.164 m)</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Turning circle (Saloon)</entry>
+            <entry>31 ft 7 in (9.63 m)</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Turning circle (<keyword conkeyref="brand/estate_model_name"
+              >Countryman</keyword>)</entry>
+            <entry>32 ft 9 in (9.983 m)</entry>
+          </row>
+          <row>
+            <entry>Front wheel alignment</entry>
+            <entry>1/16 in toe-out (1.59 mm toe-out)</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Wheelbase (Saloon)</entry>
+            <entry>6 ft 8 in (2.036 m)</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Wheelbase (<keyword conkeyref="brand/estate_model_name">Traveller</keyword>)</entry>
+            <entry>7 ft 0 in (2.138 m)</entry>
+          </row>
+          <row>
+            <entry>Overall width </entry>
+            <entry>4 ft 7½ in (1.41 m)</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Overall length (Saloon)</entry>
+            <entry>10 ft 0¼ in (3.05 m )</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Overall length (<keyword conkeyref="brand/estate_model_name">Traveller</keyword>)</entry>
+            <entry>10 ft 9 in (3.259 m)</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Overall height (Saloon)</entry>
+            <entry>4 ft 5 in (1.35 m)</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Overall height (<keyword conkeyref="brand/estate_model_name">Traveller</keyword>)</entry>
+            <entry>4 ft 5½ in (1.36 m)</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Weight (Saloon)</entry>
+            <entry>1,294 lb approx (587 kg approx)</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Weight (<keyword conkeyref="brand/estate_model_name">Traveller</keyword>)</entry>
+            <entry>1,456 lb approx (660 kg approx)</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Maximum towing weight (Saloon)</entry>
+            <entry>8 cwt (406.5 kg)</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Maximum towing weight (<keyword conkeyref="brand/estate_model_name">Traveller</keyword>)</entry>
+            <entry>5 cwt (254.2 kg)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
+

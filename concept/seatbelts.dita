@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="seatbelts">
+  <title>Seat belts</title>
+  <shortdesc>Wearing a seat belts reduces your chance of being injured in an accident.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of
+        the GNU General Public License Version 3. See the GNU General Public License or licence.txt
+        for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-07-20"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <indexterm>seat belts</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Wearing a seat belts reduces your chance of being injured in an accident. Seat belts for the
+      front seats are available from your
+        <ph
+        xml:lang="en-US">licensed</ph> dealer.</p>
+    <p>Attachment points are located on the centre door pillars, the rear of the door sills and the
+      sides of the central floor tunnel.</p>
+    <p>When seat belts are fitted to both seats, the short belt is attached to the side of the
+      tunnel farthest from the wearer. That is, the belt must cross the tunnel.</p>
+    <note type="attention">The fitting of seat belts should only be carried out by a
+        <ph
+        xml:lang="en-US">licensed</ph> dealer.</note>
+  </conbody>
+</concept>

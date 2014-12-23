@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="gauges">
+  <title>
+
+Oil pressure gauge</title>
+  <shortdesc>The oil pressure gauge indicates the oil pressure in the engine.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-06"/>
+    </critdates>
+  <metadata> <keywords> 
+    <indexterm>gauges  <indexterm>oil pressure gauge</indexterm></indexterm>
+    <indexterm>oil pressure</indexterm><indexterm>instruments</indexterm> </keywords> </metadata>
+ </prolog>
+  <conbody>
+  
+    
+      <p>The oil pressure gauge is located to the right of the speedometer.</p>
+      <p>This reads approximately 60 lbs/sq in. (4.22kg/cm2) under normal running conditions.</p>
+      <p>There is an <xref href="oilpressurelight.dita#oilpressurelight">oil pressure warning
+          light</xref>.</p>
+  
+       
+  </conbody>
+</concept>

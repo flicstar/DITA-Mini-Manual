@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="cleaningtheinterior">
+    <title>Cleaning the interior</title>
+    <shortdesc>Brush or vaccuum the interior upholstery of the car.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+ 
+<metadata> <keywords> 
+    <indexterm>cleaning <indexterm>interior</indexterm><indexterm>upholstery</indexterm></indexterm>
+    
+</keywords> </metadata>    </prolog>
+    <taskbody>
+        <context>
+            <p>Clean the interior before washing the outside of the vehicle.</p>
+        </context>
+        <steps-unordered id="steps-unordered_cleaninterior">
+            <step>
+                <cmd>Clean the carpets with a stiff brush or vacuum cleaner.</cmd>
+            </step>
+            <step>
+                <cmd>Apply  <term keyref="BMC">BMC</term> 2-way Cleaning
+                    Fluid to the carpets with a soft brush.</cmd>
+            </step>
+            <step>
+                <cmd>Apply  <term keyref="BMC">BMC</term> 2-way Cleaning Fluid to the upholstery and
+                    and roof lining with a damp cloth using a light rubbing action.</cmd>
+            </step>
+            <step>
+                <cmd>Use a razor blade to remove transfers from the window glass.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

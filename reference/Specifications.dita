@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="specifications">
+  <title>Specifications</title>
+  <shortdesc>It is important to understand the specifications of the engine, tyres and other
+    components of the car so that you can maintain it properly.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="${date(yyyy-MM-dd)}"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>specifications</indexterm> </keywords> </metadata>
+ </prolog> 
+  <refbody>
+    <table frame="all" rowsep="1" colsep="1" id="table_ncd_rrv_h4">
+      <tgroup cols="2" align="left">
+        <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+        <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+        <thead>
+          <row>
+            <entry>Component</entry>
+            <entry>Details (metric)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Engine</entry>
+            <entry>4 cylinder, overhead valves</entry>
+          </row>
+          <row>
+            <entry>Bore</entry>
+            <entry>2.477 in (63 mm)</entry>
+          </row>
+          <row>
+            <entry>Stroke</entry>
+            <entry>2.687 in (68.26 mm)</entry>
+          </row>
+          <row>
+            <entry>Cubic capacity</entry>
+            <entry>51.7 cu in (848 cc)</entry>
+          </row>
+          <row>
+            <entry>Compression ratio</entry>
+            <entry>8.3 : 1</entry>
+          </row>
+          <row>
+            <entry>Firing order</entry>
+            <entry>1, 3, 4, 2</entry>
+          </row>
+          <row>
+            <entry>Valve rocker clearance (cold)</entry>
+            <entry>.012 in (.30 mm)</entry>
+          </row>
+          <row>
+            <entry>Sparking plugs</entry>
+            <entry>N5, 14 mm</entry>
+          </row>
+          <row>
+            <entry>Sparking plug gap</entry>
+            <entry>.025 in (.64 mm)</entry>
+          </row>
+          <row>
+            <entry>Static ignition timing - premium fuel distributor</entry>
+            <entry><term keyref="tdc">TDC</term></entry>
+          </row>
+          <row>
+            <entry>Static ignition timing - regular fuel distributor</entry>
+            <entry>7º before <term keyref="tdc">TDC</term></entry>
+          </row>
+          <row>
+            <entry>Contact breaker gap</entry>
+            <entry>.014 to .016 in (.36 to 40 mm)</entry>
+          </row>
+          <row>
+            <entry>Carburetter needle (standard)</entry>
+            <entry>EB</entry>
+          </row>
+          <row>
+            <entry>Tyre size</entry>
+            <entry>5.20 - 10</entry>
+          </row>
+          <row>
+            <entry>Tyre pressure in normal conditions (front)</entry>
+            <entry>24 lb/sq in (1.68 kg/cm²)</entry>
+          </row>
+          <row>
+            <entry>Tyre pressure in normal conditions (rear)</entry>
+            <entry>22 lb/sq in (1.55 kg/cm²)</entry>
+          </row>
+          <row>
+            <entry>Tyre pressure for full load (front and rear)</entry>
+            <entry>24 lb/sq in (1.68 kg/cm²)</entry>
+          </row>
+          <row>
+            <entry>Overall gear ratios (first and reverse)</entry>
+            <entry>13.657</entry>
+          </row>
+          <row>
+            <entry>Overall gear ratios with synchromesh (second)</entry>
+            <entry>8.176</entry>
+          </row>
+          <row>
+            <entry>Overall gear ratios with synchromesh (third)</entry>
+            <entry>5.317</entry>
+          </row>
+          <row>
+            <entry>Overall gear ratios with synchromesh (fourth)</entry>
+            <entry>3.765</entry>
+          </row>
+          <row product="Saloon">
+            <entry>Fuel tank capacity (Saloon)</entry>
+            <entry>5½ gal (25 litres, 6.6 US gal)</entry>
+          </row>
+          <row product="Traveller">
+            <entry>Fuel tank capacity (<keyword conkeyref="brand/estate_model_name"
+              >Countryman</keyword>)</entry>
+            <entry>6 gal (27 litres, 7.2 US gal)</entry>
+          </row>
+          <row>
+            <entry>Engine and transmission oil capacity (includes filter)</entry>
+            <entry>8½ pints (4.83 litres, 10.2 US pints)</entry>
+          </row>
+          <row>
+            <entry>Water capacity</entry>
+            <entry>5¼ pints (3 litres, 6.3 US pints)</entry>
+          </row>
+          <row>
+            <entry>Water capacity with heater</entry>
+            <entry>6¼ pints (3.55 litres, 7.5 US pints)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>

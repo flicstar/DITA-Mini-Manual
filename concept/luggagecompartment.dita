@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="luggagecompartment">
+  <title>Luggage compartment</title>
+  <shortdesc>The luggage compartment provides a secure storage area for stowing packages.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-13"/>
+    </critdates>
+  <metadata> <keywords> 
+    <indexterm>luggage</indexterm>
+    <indexterm>locks <indexterm>luggage</indexterm><indexterm>luggage compartment
+          lock</indexterm></indexterm>
+  </keywords> </metadata>
+ </prolog>
+  <conbody>
+    <p>The luggage compartment is located at the rear of the vehicle.</p>
+    <p>Open the luggage compartment by turning the handle anti-clockwise to release the catch. Turn
+      the handle clockwise to secure the compartment. When closed, you can lock the lid with the key
+      provided.</p>
+    <fig><title>Locking the lid of the luggage compartment</title><image href="../image/LuggageLock.png" id="image_luggagelock"/></fig>
+    <p>Fold the lid down and use it in the open position for additional luggage carrying capacity.
+      The rear number plate is hinged so that you can ensure it is clearly visible to following
+      vehicles when the luggage compartment lid is folded down.<note type="warning">Don't carry
+        heavy luggage items on the lid.</note></p>
+  </conbody>
+</concept>
+
+

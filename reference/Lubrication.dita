@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="lubrication">
+  <title>Lubrication chart</title>
+  <shortdesc>It is important to check that the engine and chassis is adequately lubricated at all times
+    to prolong the life of the vehicle. Use this diagram and chart to maintain the lubrication
+    of your vehicle.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-08-09"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>lubrication</indexterm> <indexterm>maintenance</indexterm> </keywords> </metadata>
+ </prolog>
+  <refbody>
+    <section>
+         <fig><title>Lubrication diagram</title><image href="../image/LubeChart.png" id="image_LubeChart"/>
+    
+    </fig>
+      <table frame="all" rowsep="1" colsep="1" id="table_lubechart">
+        <title>Lubrication chart</title>
+        <tgroup cols="4">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="3.94*"/>
+          <colspec colname="newCol2" colnum="3" colwidth="4.06*"/>
+          <colspec colname="c3" colnum="4" colwidth="9.5*"/>
+          <thead>
+            <row>
+              <entry/>
+              <entry>Frequency</entry>
+              <entry>Component</entry>
+              <entry>Action</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>Daily</entry>
+              <entry>Engine</entry>
+              <entry>Inspect the oil level using the dipstick. Top up with oil if required.</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry morerows="2">Every 3,000 miles (5,000 km)</entry>
+              <entry>Steering joint nipples</entry>
+              <entry>Give three or four strokes of grease gun filled with grease.</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Rear suspension radius arms</entry>
+              <entry>Give three or four strokes of grease gun filled with grease.</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Carburetter</entry>
+              <entry>Remove the cap from the top of the suction chamber and top up with oil.</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry morerows="3">Every 6,000 miles (10,000 km)</entry>
+              <entry>Engine</entry>
+              <entry>Drain off the old oil and refill with fresh oil.</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>Distributor</entry>
+              <entry>Withdraw the rotor arm and add a few drops of oil to the cam bearing and to the
+                advance mechanism through the gap around the cam spindle.<p>Smear the distributor cam
+                  spindle and contact breaker pivot with grease.</p></entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>Oil filter</entry>
+              <entry>Wash the bowl in fuel and fit a new element.</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>Dynamo</entry>
+              <entry>Add a few drops of oil through the oil hole in the commutator end
+                bearing.</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>Every 12,000 miles (20,000 km)</entry>
+              <entry>Water pump</entry>
+              <entry>Remove the plug from the water pump body and lubricate the pump sparingly with
+                grease.</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>Major overhaul periods only</entry>
+              <entry>Gear change shaft lubricating nipple</entry>
+              <entry>Give three or four strokes of grease gun filled with grease.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="driving">
+  <title>Driving</title>
+  <shortdesc>Familiarise yourself with all of the controls so that you can drive confidently in
+    different conditions.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-09-18"/>
+    </critdates>
+   <metadata> <keywords> <indexterm>driving</indexterm> </keywords> </metadata>
+</prolog>
+  <conbody>
+    <p/>
+  </conbody>
+</concept>

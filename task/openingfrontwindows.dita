@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "task.dtd">
+<task id="frontwindows">
+  <title>Opening front windows</title>
+  <shortdesc>The front windows slide open to allow fresh air into your vehicle.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-07-15"/>
+    </critdates>
+   <metadata> <keywords> <indexterm>windows</indexterm> </keywords> </metadata>
+</prolog>
+  <taskbody>
+    <context>
+    <p>The font and rear glass of the front windows can be fully or partially opened. The locking
+      plunger will secure the glass in a number of positions, providing a range of openings.<note
+        type="tip">Open to the second, third or fourth locking position to aid demisting in cold
+        weather.</note></p>
+      <fig id="fig_frontslidingwindows">
+        <title>Front sliding windows</title>
+        <image href="../image/FrontWindow.png" id="image_frontwindow"><alt>Front sliding windows </alt></image>
+        
+      </fig>
+    </context>
+    <steps-informal>
+      <p>To open and secure the front windows, depress the plunger and slide the glass to the
+          required position.
+      </p>
+    </steps-informal>
+     
+    
+  </taskbody>
+</task>

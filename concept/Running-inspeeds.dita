@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="runninginspeeds">
+  <title>Running-in speeds</title>
+  <shortdesc>Running-in refers to the first 500 miles (800 km) of running the engine of a new vehicle. During the initial period you shouldn't overly tax the engine.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-20"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>running in</indexterm> <indexterm>engine speed</indexterm></keywords> </metadata>
+ </prolog>
+  <conbody>
+        <p>The treatment given to the engine during this period has a bearing on its subsequent life.
+      Therefore, you should limit the engine speed during this early period of your new vehicle's
+      life.</p>
+    <note type="restriction">Do not exceed 45 mph (72 kph).</note>
+    <note type="restriction">Do not drive at full throttle in any gear.</note>
+    <note type="restriction">Do not allow the engine to labour in any gear.</note>
+  </conbody>
+</concept>

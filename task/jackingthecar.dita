@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="jackingthecar">
+    <title>Jacking the car</title>
+    <shortdesc>Jack or raise the car with the special tool provided.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>jacking</indexterm> </keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context>
+            <p>The jack supplied with the vehicle is designed to lift one side of the vehicle at a
+                time.</p>
+            <fig id="fig_jackwheel">
+                <title>Jacking the car</title>
+                <image href="../image/JackWheel.png" id="image_jackwheel"><alt>Jacking the wheel </alt></image>
+               
+            </fig>
+        </context>
+        <steps>
+            <step>
+                <cmd>Remove the rubber plug from the socket below the door on the exterior of the
+                    car.</cmd>
+            </step>
+            <step>
+                <cmd>Insert the arm of the jack into the socket.</cmd>
+                <stepresult>The jack should lean slightly outwards at the top to allow for the
+                    radial movement of the vehicle as it is raised.</stepresult>
+            </step>
+            <step>
+                <hazardstatement type="caution">
+                    <messagepanel id="messagepanel_ujw_cyk_gp">
+                        <typeofhazard>Avoid distorting the bracket and damaging the
+                            jack.</typeofhazard>
+                        <howtoavoid>Ensure the bar is fully inserted into the jacking bracket before
+                            attempting to lift the car.</howtoavoid>
+                    </messagepanel>
+                </hazardstatement>
+                <cmd>Hold the jack bar up into the jacking bracket with one hand and turn the jack
+                    screw with your other hand until the car begins to lift.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

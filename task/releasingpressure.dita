@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="releasingpressure">
+    <title>Releasing pressure</title>
+    <shortdesc>If the engine overheats, you may want to add water to the radiator to help cool it
+                down. You will need to release pressure from the radiator first.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-26"/>
+        </critdates>
+    <metadata> <keywords> <indexterm>cooling</indexterm> </keywords> </metadata>
+ </prolog>
+    <taskbody>
+        <context>
+            
+            <p>The cooling system on this vehicle is pressurised. Release the pressure gradually
+                when removing the radiator cap  - which will be hot after driving.<fig id="fig_radiatorcap">
+                    <title>Radiator cap</title>
+                    <image href="../image/RadiatorCap.png" id="image_radiatorcap"/>
+                </fig></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Protect your hands using gloves or a cloth to avoid risk of burns from escaping
+                    steam.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the radiator cap anti-clockwise until you feel the resistance of the
+                    safety stop.</cmd>
+            </step>
+            <step>
+                <cmd>Leave the cap in this position until all the pressure is released. </cmd>
+            </step>
+            <step>
+                <cmd>Press the cap downwards against the spring to clear the saftey stops, and
+                    continue turning until it can be lifted off.</cmd>
+                <stepresult>
+                    <note type="tip">A water level indicator is fitted inside the header
+                        tank.</note>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

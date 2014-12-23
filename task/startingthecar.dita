@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ignitionswitch">
+  <title>Starting the car</title>
+  <shortdesc>The ignition switch lets you engage the engine as a precursor to starting the car. When the ignition is 'on' you can run the radio and heater. Turn the ignition to 'start' when you want to start the engine.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-06-22"/>
+    </critdates>
+ <metadata> <keywords> 
+   <indexterm>switches <indexterm>	ignition switch</indexterm></indexterm>
+   <indexterm>ignition</indexterm>
+   <indexterm>starting</indexterm>
+</keywords> </metadata>
+  </prolog>
+  <taskbody>
+    <context>The ignition switch is located in the centre of the control panel and is operated by a
+      key. The switch has two position: 'on' and 'start'. </context>
+    <steps id="steps_ozb_12d_n4">
+      <step>
+        <cmd>Insert the key into the ignition switch.</cmd>
+      </step>
+      <step>
+        <cmd>Turn the key clockwise to the 'on' position. </cmd>
+        <stepresult>The <xref href="../concept/ignitionwarninglight.dita#ignitionwarninglight"
+            >ignition warning light</xref> displays. <note type="important">Never leave the ignition
+            switch in the 'on' position when the engine is not running because this will draw power
+            from the battery.</note></stepresult>
+      </step>
+      <step>
+        <note>Ensure the gear lever is in the neutral position.</note>
+        <cmd>Turn the key clockwise to the 'start' position.</cmd>
+        
+      </step>
+      <step>
+        
+        <cmd>Press the <xref href="../concept/starterswitch.dita">starter switch</xref> quickly and
+          firmly.</cmd>
+        <stepresult>The engine starts.<note
+            conref="../snippets/starter.dita#ReusableComponent_starter/note_starterswitch"
+        /> <note type="important">Don't continue to hold the starter switch down if the
+          engine fails to start because this draws a heavy current and may completely
+          discharge the battery.</note>
+        </stepresult>
+      </step>
+    </steps>
+   
+  </taskbody>
+</task>

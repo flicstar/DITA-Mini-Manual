@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="shuttercontrolTraveller" product="Traveller">
+  <title>Shutter control lever - <keyword conkeyref="brand/estate_model_name"
+    >Countryman</keyword></title>
+  <shortdesc>The shutter control lever is used to distribute air throughout the vehicle. </shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-09-22"/>
+    </critdates>
+  </prolog>
+  <conbody>
+    <p>The shutter control lever is located under the control panel has three positions: CAR, SCREEN
+      and OFF.</p>
+    <p>
+      <ul id="ul_rkx_3dv_s4">
+        <li>CAR (top) position - air is distributed mainly to the interior of the vehicle, with some
+          to the windshield.</li>
+        <li>SCREEN (centre) position - air is directed onto the windshield, with some to the vehicle
+          interior.</li>
+        <li>OFF (bottom) position - the supply of air is cut off. No air is distributed.</li>
+      </ul>
+    </p>
+  </conbody>
+</concept>

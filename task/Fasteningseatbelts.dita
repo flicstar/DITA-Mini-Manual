@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="fasteningseatbelts">
+    <title>Fastening the seat belts</title>
+    <shortdesc>Ensure the driver and passenger seat belts are correclty adjusted, and always keep seat belts fastened while driving to reduce your chance of being injured in an accident.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-20"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>seat belts</indexterm> </keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context>
+            <p>Seat belts are adjustable, and should fit snugly across your hips and chest.</p>
+            <fig id="fig_seatbelt">
+                <title>A driver with a correctly fastened seatbelt.</title>
+                
+<image href="../image/Seatbelt.png" id="image_seatbelt"><alt>A driver with a correctly fastened seatbelt </alt></image>
+                    </fig>
+                </context>
+        <steps>
+            <step>
+                <cmd>Adjust the short belt until the attached buckle is located just in front of
+                    your hip.</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the long belt so that the buckle tongue is approximately at the belt
+                    centre.</cmd>
+            </step>
+            <step>
+                <cmd>Push the buckle tongue on the long belt into the buckle on the short
+                    belt.</cmd>
+                <stepresult>The buckle makes an audible click when is fastened.</stepresult>
+            </step>
+            <step>
+                <cmd>Adjust the long belt until the waist portion is comfortably tight and it is
+                    just possible to slide a hand between the upper part of the belt and your
+                    chest.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

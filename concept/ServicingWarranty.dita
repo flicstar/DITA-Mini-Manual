@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ServicingWarranty">
+  <title>Servicing and Warranty</title>
+  <shortdesc>All servicing work on your car should be carried out by an <ph xml:lang="en-US">authorized</ph><ph xml:lang="en-UK">authorised</ph>  dealer so that it is guaranteed and is covered under warranty (if
+    applicable).</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-06-08"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>servicing</indexterm> <indexterm>warranty</indexterm></keywords> </metadata>
+ </prolog>
+  <conbody>
+    <note>All warranty work must be carried out by an <ph xml:lang="en-UK">authorised</ph> Mini dealer.</note>
+    <p>Your Mini dealer knows your vehicle best and will provide routine and repair
+        service.</p>
+    <p>If emergency repair work has been undertaken by an <ph xml:lang="en-UK">unauthorised</ph> dealer, you should submit the
+      vehicle to an <ph xml:lang="en-UK">authorised</ph> dealer to check it.</p>
+    <p>
+      <note conref="../snippets/quote.dita#quote/quote"/>
+    </p>
+   
+  </conbody>
+</concept>

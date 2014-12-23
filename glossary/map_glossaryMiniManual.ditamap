@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <glossref href="tdc.dita" keys="tdc"/>
+ <glossref href="ratchet.dita" keys="ratchet" keyref="ratchet"/>
+ <glossref href="scotch.dita" keys="scotch" keyref="scotch"/>
+ <glossref href="BMC.dita" keys="BMC" keyref="BMC"/>
+</map>

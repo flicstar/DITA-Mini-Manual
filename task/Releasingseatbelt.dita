@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="releasingseatbelts">
+    <title>Releasing the seat belts</title>
+    <shortdesc>It is important you are familiar with how to undo your seat belt because you may need to relesae your own or your passenger's quickly if you experience an accident in your vehicle.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-20"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>seat belts</indexterm> </keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Lift the flap on the buckle to approximately 90 degrees.</cmd>
+            </step>
+            <step>
+                <cmd>While holding the buckle flap, exert gentle forward pressure on the belt.</cmd>
+                <stepresult>The seat belt is released.<note type="notice">Fold and stow the belt in
+                        the clip on the read window sill to allow passengers safe entry and exit of
+                        the vehicle</note></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

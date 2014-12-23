@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="instrumentlights">
+  <title>Instrument lights</title>
+  <shortdesc>The instrument light switch illuminates the instrument panel.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>This documentation project is free to redistribute and modify under the terms of
+        the GNU General Public License Version 3. See the GNU General Public License or licence.txt
+        for more details.</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2014-07-12"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <indexterm>lights <indexterm>instrument lights</indexterm>
+          <indexterm>dashboard lights</indexterm>
+        </indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>When the pilot/vehicle lights are switched on, use the instrument light switch to illuminate
+      the instrument panel for night driving.</p>
+    <p>The instrument light switch is located on the driver's side of the instrument panel.</p>
+  </conbody>
+</concept>

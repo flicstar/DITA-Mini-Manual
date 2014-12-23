@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="cleaningexteriortrim">
+    <title>Cleaning the exterior trim</title>
+    <shortdesc>Gently clean the exterior trim and apply grease to preserve the finish.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+  <metadata> <keywords> 
+      <indexterm>cleaning <indexterm>exterior</indexterm></indexterm>
+  </keywords> </metadata>  </prolog>
+    <taskbody>
+        <context>
+            
+                <note type="caution">Never use an abrasive cleaner on stainless steel, chrome,
+                    aluminium or plastic trim.</note>
+                <note>Don't clean plastic trim with metal polish.</note><p>Any sligh tarnish found on stainless steel or plated trim that has not received regular washing
+                    can be removed with  <term keyref="BMC">BMC</term>
+                    Chrome Cleaner.</p><p>Occasional application of mineral light oil or grease will
+                        help to preserve the finish of the trim, particularly during winter when
+                        salt might be used on the roads. Don't apply these protectives to plastic
+                        trim.</p>
+            
+        </context>
+        <steps-unordered id="steps-unordered_cleantrim">
+            <step>
+                <cmd>Remove spots of grease and tar with petrol/white spirit (gasoline/hydrocarbon
+                    solvent).</cmd>
+            </step>
+            <step>
+                <cmd>Wash with water containing a mild detergent.</cmd>
+            </step>
+            <step>
+                <cmd>When all dirt is removed, polish with a clean, dry cloth or chamoise
+                    leather.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

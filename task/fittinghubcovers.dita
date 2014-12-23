@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="fittinghubcovers" product="Saloon">
+    <title>Fitting hub covers</title>
+    <shortdesc>Hub covers protect the wheel nuts and give a finished look to your
+        vehicle.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>wheels</indexterm> </keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place the outer rim over two of the protusions on the wheel centre.</cmd>
+            </step>
+            <step>
+                <cmd>Give the outer face a sharp blow with your fist over the third
+                    protrusion.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

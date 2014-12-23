@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="scotch">
+  <glossterm>Scotch</glossterm>
+  <glossdef>Prevent a wheel from moving or slipping by placing a wedge (for example, a stone or block of wood) underneath.</glossdef>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-09-18"/>
+    </critdates>
+  </prolog>
+</glossentry>

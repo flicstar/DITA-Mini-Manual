@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+  <title>Introduction</title>
+  <shortdesc>This manual will help you understand the operation and maintenance of your vehicle so
+    that you can enjoy many hours of driving pleasure.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-06-08"/>
+    </critdates>
+  </prolog>
+  <conbody>
+    <p>Welcome to the growing family of Mini owners. This vehicle has been delivered to you with
+      confidence. </p>
+    <p>This manual provides all the information necessary to maintain the vehicle in first-class
+      condition and to ensure trouble-free service.</p>
+    <p>Please read this manual before operating your vehicle.</p>
+    <section>
+      <title>Reading this manual</title>
+      <p>This manual includes information for the Saloon and Traveller models.</p>
+      <p>All information, specifications and illustrations in this manual are correct at the time of
+        printing.</p>
+      <note conref="../snippets/leftright.dita#ReusableComponent_vfv_2g4_j4/leftrightnote"/>
+    </section>
+    <section>
+      <p>Detailed and technical information is contained in the Workshop Manual which is available
+        from your <ph xml:lang="en-UK">authorised</ph> Mini dealer. </p>
+    </section>
+  </conbody>
+</concept>

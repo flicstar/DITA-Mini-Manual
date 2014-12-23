@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="freshairheaterTraveller" product="Traveller">
+  <title>Fresh air Heater - <keyword conkeyref="brand/estate_model_name"
+    >Countryman</keyword></title>
+  <shortdesc>The heater is used to heat the interior of the vehicle to let
+    you drive in comfort during cold weather. It can also be used to defrost the
+    windshield. The <keyword conkeyref="brand/estate_model_name"
+    >Countryman</keyword> model has a fresh-air heater which ventilates and circulates the interior
+    air while it heats.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-12"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <indexterm>heater</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The heater works by using hot water from the engine cooling system to warm the air, and uses
+      a shutter control and blower to distribute the air through the interior of the vehicle</p>
+    <p>
+      <note type="note">The heater blower only operates when the engine is switched on.</note>
+    </p>
+    <p>There are three controls to operate the heater: a control knob, a shutter control lever and a
+      blower motor switch.</p>
+    <fig id="fig_HeaterControlsTraveller">
+      <title>Heater controls</title>
+      <p>
+        
+      <imagemap>
+         <image href="../image/HeaterControlsTraveller.png" id="image_HeaterControlsTraveller" ><alt>The heater controls </alt></image>
+        <area>
+          <shape>rect</shape>
+          <coords>288, 202, 358, 249</coords>
+          <xref href="blowermotorswitchTraveller.dita">Blower motor switch</xref>
+        </area>
+        <area>
+          <shape>rect</shape>
+          <coords>304, 141, 385, 199</coords>
+          <xref href="shuttercontrolleverTraveller.dita">Shutter control lever</xref>
+        </area>
+        <area>
+          <shape>rect</shape>
+          <coords>218, 11, 258, 100</coords>
+          <xref href="../task/adjustingheatTraveller.dita">Heat control</xref>
+        </area>
+      </imagemap>
+      </p>
+      <p>
+        <table frame="all" rowsep="1" colsep="1" id="table_HeaterControlsTraveller">
+          <tgroup cols="2">
+            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+            <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry><xref href="../task/adjustingheatTraveller.dita">Heat control</xref></entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry><xref href="shuttercontrolleverTraveller.dita#shuttercontrolTraveller"
+                    >Shutter control lever</xref></entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry><xref href="blowermotorswitchTraveller.dita">Blower motor
+                  switch</xref></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </fig>
+   
+ 
+  </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="adjustingheatTraveller" product="Traveller">
+  <title>Adjusting the heat - <keyword conkeyref="brand/estate_model_name"
+    >Countryman</keyword></title>
+<shortdesc>Use the heater thermostat knob to adjust the temperature of the heater.</shortdesc>
+<prolog>
+  <author>Felicity Brand</author>
+  <copyright>
+    <copyryear year="2014"></copyryear>
+    <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+  </copyright>
+    <critdates>
+      <created date="2014-09-22"/>
+    </critdates>
+  </prolog>
+        <taskbody>
+        <context>
+          <p>The level of heat is controlled by a knob on left of the control panel. This knob regulates
+            the amount of hot water circulating in the heater system.</p>
+       </context>
+      <steps-informal>Push the knob fully in for the maximum amount of heat. You can adjust the knob
+      to any position to meet varying heating requirements.</steps-informal>
+    </taskbody>
+</task>

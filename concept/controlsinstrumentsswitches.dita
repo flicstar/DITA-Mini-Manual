@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ControlsInstrumentsSwitches">
+  <title>Controls, Instruments and Switches</title>
+  <shortdesc>The vehicle is controlled by a series of levers, pedals, instruments and switches. It
+    is important to be familiar with where each control is and how it works so that you can drive
+    the vehicle confidently and safely.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-09-18"/>
+    </critdates>
+  </prolog>
+  <conbody>
+    <p/>
+  </conbody>
+</concept>

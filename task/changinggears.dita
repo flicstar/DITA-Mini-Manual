@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="gearlever">
+    <title>Changing gears</title>
+    <shortdesc>The gear lever is used to switch between the different gears to allow you to drive the car.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-06-09"/>
+        </critdates>
+  <metadata> <keywords> <indexterm>gears</indexterm><indexterm>controls</indexterm> </keywords> </metadata>
+   </prolog>
+    <taskbody>
+        <prereq>Depress the clutch foot pedal to engage a gear.</prereq>
+        <context>
+            <fig><title>Gear lever</title><image href="../image/Gearlever.png" id="image_gearlever"><alt>The gear lever </alt></image>
+               
+</fig>
+            <p>The lever is centrally situated and defaults to neutral gear.</p>
+            
+            <note conref="../snippets/leftright.dita#ReusableComponent_vfv_2g4_j4/leftrightnote"/>
+            
+            <p>From the neutral position, move the lever:</p>
+        </context>
+                <steps-unordered id="steps-unordered_gearlever">
+                    <step>
+                        <cmd>left and forwards to select first gear.</cmd>
+                    </step>
+                    <step>
+                        <cmd>left and backwards to select second gear.</cmd>
+                    </step>
+                    <step>
+                        <cmd>forwards to select third gear.</cmd>
+                    </step>
+                    <step>
+                        <cmd>backwards to select fourth gear.</cmd>
+                    </step>
+                    <step>
+                        <cmd>right and backwards to select reverse gear.</cmd>
+                    </step>
+                </steps-unordered>
+            
+  
+          
+    
+
+
+
+    </taskbody>
+</task>

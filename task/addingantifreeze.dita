@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="addingantifreeze">
+    <title>Adding anti-freeze</title>
+    <shortdesc>Add anti-freeze liquid to the cooling system to maintain the running condition of the vehicle during cold weather.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-26"/>
+        </critdates>
+   <metadata> <keywords> <indexterm>anti-freeze amounts</indexterm> <indexterm>maintenance</indexterm></keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context>
+            <p>If the water in the cooling system freezes, when it expands there is a risk it could
+                burst the radiator, cylinder block or heater.</p>
+            <p>You can avoid this risk by draining the cooling system when the vehicle is left
+                unused for any length of time in cold weather, or by adding anti-freeze to the water
+                in the cooling system.</p>
+            <p>Anti-freeze can remain in the cooling system for up to two years provided that the
+                specific gravity of the coolant is check periodically by your dealer and anti-freeze
+                added as necessary.<note type="caution">Do not use radiator anti-freeze solution in
+                    the windshield-w&amp;ashing equipment.</note></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><xref href="Drainingthecoolingsystem.dita#drainingthecoolingsystem">Drain the
+                        cooling system</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>When all the water is drained away, close the taps.</cmd>
+            </step>
+            <step>
+                <note>Refer to <xref href="../reference/antifreezeamounts.dita#antifreezeamounts"
+                        >anti-freeze amounts</xref> to determine how much anti-freeze to use.</note>
+                <cmd>Pour in the anti-freeze.</cmd>
+            </step>
+            <step>
+                <cmd>Fill with water.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

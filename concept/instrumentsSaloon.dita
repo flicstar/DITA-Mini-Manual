@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="InstrumentsSaloon" product="Saloon">
+  <title>Instruments and Switches - Saloon</title>
+  <shortdesc>Most instruments and switches are located on the dashboard of the car, within easy
+    reach of the driver for easy adjustment during driving.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <metadata> <keywords> <indexterm>instruments</indexterm> </keywords> </metadata>
+ 
+  </prolog>
+  <conbody>
+         <fig id="fig_instrumentsSaloon">
+           <p> <imagemap>  
+             <image href="../image/Instruments_standard.png" id="image_instrumentsStandard"><alt>Saloon instrument panel</alt></image>
+             <area>
+               <shape>rect</shape>
+               <coords>213, 204, 239, 233</coords>
+               <xref href="RecirculatoryHeaterSaloon.dita">Heater control</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>241, 204, 270, 233</coords>
+               <xref href="../task/usingwindshieldwipers.dita">Wiper switch</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>277, 204, 311, 233</coords>
+               <xref href="../task/startingthecar.dita">Ignition switch</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>315, 204, 345, 233</coords>
+               <xref href="../task/turningonheadlights.dita#turningonheadlights">Head light
+                 switch</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>347, 204, 379, 233</coords>
+               <xref href="choke.dita">Choke control</xref>
+             </area>
+            
+             
+             <area>
+               <shape>rect</shape>
+               <coords>284, 147, 304, 161</coords>
+               <xref href="fuelgauge.dita">Fuel gauge</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>306, 139, 320, 156</coords>
+               <xref href="ignitionwarninglight.dita">Ignition warning light</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>263, 143, 280, 158</coords>
+               <xref href="oilpressurelight.dita">Oil pressure warning light</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>284, 80, 304, 91</coords>
+               <xref href="../task/dippingheadlightbeams.dita">Headlight main beam warning
+                 light</xref>
+             </area>
+            
+             <area>
+               <shape>rect</shape>
+               <coords>349, 123, 375, 139</coords>
+               <xref href="instrumentlights.dita">Instrument panel light
+                 switch</xref>
+             </area>
+             <area>
+               <shape>rect</shape>
+               <coords>157, 215, 186, 257</coords>
+               <xref href="../task/usingwindshieldwipers.dita">Windshield washer
+                 control</xref>
+             </area>
+           </imagemap>
+           </p>
+      <p>
+        <table frame="all" rowsep="1" colsep="1" id="table_ayc_vjl_gp">
+          <tgroup cols="2">
+            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+            <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry><xref href="RecirculatoryHeaterSaloon.dita">Heater control</xref></entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry><xref href="../task/usingwindshieldwipers.dita">Wiper switch</xref></entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry><xref href="../task/startingthecar.dita">Ignition switch</xref></entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry><xref href="../task/turningonheadlights.dita#turningonheadlights">Head light
+                    switch</xref></entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry><xref href="choke.dita">Choke control</xref></entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>Speedometer</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>Total distance recorder</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry><xref href="fuelgauge.dita">Fuel gauge</xref></entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry><xref href="ignitionwarninglight.dita">Ignition warning light</xref></entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry><xref href="oilpressurelight.dita">Oil pressure warning light</xref></entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry><xref href="../task/dippingheadlightbeams.dita">Headlight main beam warning
+                    light</xref></entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>Parcel shelf light and switch</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry><xref href="instrumentlights.dita">Instrument panel light
+                  switch</xref></entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry><xref href="../task/usingwindshieldwipers.dita">Windshield washer
+                    control</xref></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </fig>
+  </conbody>
+</concept>

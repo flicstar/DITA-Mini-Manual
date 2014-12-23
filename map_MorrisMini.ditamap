@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Morris Mini Owner's Manual" id="MorrisMiniMap">
+ <title>Morris Mini Owner's Manual</title>
+ 
+<topicmeta>
+   <author type="creator">Felicity Brand</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+  </copyright>
+ </topicmeta>
+
+<mapref href="map_MiniOwnerManual.ditamap"/>
+ <keydef keys="brand" href="conref_source_morris.dita"/>
+</map>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="cleaningtheexterior">
+    <title>Cleaning the exterior</title>
+    <shortdesc>Wash the exterior with soapy water and a sponge, then dry it off with a
+        chamois.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-27"/>
+        </critdates>
+   <metadata> <keywords> 
+     <indexterm>cleaning <indexterm>exterior</indexterm></indexterm>
+ </keywords> </metadata>
+  </prolog>
+    <taskbody>
+        <context>
+            <p>Air pollution, rain, mud and traffic film will make the vehicle exterior dirty.</p>
+            <p>Retain the new appearance of the vehicle by cleaning it regularly and applying 
+                <term keyref="BMC">BMC</term> car polish.</p>
+            <note>Keep the <xref href="usinghandbrake.dita#handbrake">hand brake</xref> fully on
+                when using high pressure water washing to avoid <xref
+                    href="../concept/wetbrakes.dita#wetbrakes">wetting the brakes</xref>.</note>
+        </context>
+        <steps-unordered id="steps-unordered_cleanexterior">
+            <step>
+                <cmd>Wash the exterior of the vehicle frequently using a soft sponge and plenty of
+                    water containing a mild detergent.</cmd>
+            </step>
+            <step>
+                <cmd>Soften large deposits of mud first with water before using the sponge.</cmd>
+            </step>
+            <step>
+                <cmd>Remove smears by a second wash using clean water.</cmd>
+            </step>
+            <step>
+                <cmd>When dry, wipe the surface of the car using a damp chamois leather.</cmd>
+            </step>
+            <step>
+                <cmd>Remove spots of grease or tar using petrol/white spirit (gasoline/hydrocarbon
+                    solvent).</cmd>
+            </step>
+            <step>
+                <cmd>If the car is driven in extreme conditions such as sea spray or on salted
+                    roads, hose the under-body of the vehicle.</cmd>
+            </step>
+
+
+                    
+                       </steps-unordered>
+        
+    </taskbody>
+</task>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="headlightbeamdipping">
+    <title>Dipping the headlight beams</title>
+    <shortdesc>The headlight beam dipping switch lets you lower the height of the headlight beams as
+                a courtesy to oncoming vehicles.</shortdesc>
+    <prolog>
+        <author>Felicity Brand</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-07-06"/>
+        </critdates>
+  <metadata> <keywords> <indexterm>headlights</indexterm> </keywords> </metadata>
+   </prolog>
+    <taskbody>
+        <context>
+                       <p>The headlight beam dipping switch is located in the center of the toeboard and is
+                foot-operated. </p>
+            <p>The switch is an on/off toggle, dipping the beams on one depression and raising them
+                on the next.</p>
+            <note type="tip">A light at the top of the instrument dial glows blue when the beams are
+                in the raised position.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Press the switch with your foot.</cmd>
+                <stepresult>The headlight beams dip.</stepresult>
+            </step>
+            <step>
+                <cmd>Press the switch with your foot again.</cmd>
+                <stepresult>The headlight beams return to the their normal position.</stepresult>
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+</task>

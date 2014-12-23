@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="bonnetlock">
+  <title>Bonnet lock</title>
+  <shortdesc>The bonnet lock keeps the bonnet securely closed while driving.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-13"/>
+    </critdates>
+  <metadata> <keywords>
+    <indexterm>bonnet</indexterm> 
+    <indexterm>locks <indexterm>bonnet lock</indexterm></indexterm>
+  </keywords> </metadata>
+ </prolog>
+  <conbody>
+    <p>The bonnet lock has a two part mechanism: a release lever and safety catch.</p>
+    <p>The release lever is located in the centre of the bonnet and the safety catch is beneath the
+      bonnet on the left hand side.</p>
+    <note>Keep the bonnet release lever and safey catch well lubricated.</note>
+    <fig id="fig_bonnetlock">
+      <title>The bonnet release lever and safety catch</title>
+      <image href="../image/BonnetLock.png" id="image_BonnetLock"><alt>The bonnet release lever and safety catch</alt></image>
+               
+    </fig>
+  </conbody>
+</concept>

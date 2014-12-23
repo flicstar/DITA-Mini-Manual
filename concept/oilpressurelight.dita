@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="oilpressurelight" product="Saloon">
+  <title>Oil pressure light</title>
+  <shortdesc>The oil pressure warning light illuminates to alert the driver when oil pressure is too low.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-06"/>
+    </critdates>
+  <metadata> <keywords> 
+    <indexterm>oil pressure</indexterm> 
+    <indexterm>lights <indexterm>oil pressure light</indexterm></indexterm>
+    <indexterm>instrument lights</indexterm>
+  </keywords> </metadata>
+ </prolog>
+  <conbody>
+    <p>The oil pressure warning light is located on the central instrument panel to the left of the
+      fuel gauge.</p>
+    <p>It glows green when the ignition is switched on prior to starting the engine. The warning
+      light stops glowing once the engine is running. </p>
+    <p>If the light continues to glow while the engine is running, stop the engine. Check the oil
+      level in the engine sump and replenish the oil if necessary.</p>
+    <p>If the light still continues to glow while the engine is running, have the lubrication system
+      checked by a authorized dealer.</p>
+  </conbody>
+</concept>

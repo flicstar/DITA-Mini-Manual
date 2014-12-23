@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="wetbrakes">
+  <title>Wet brakes</title>
+  <shortdesc>Driving with wet brakes can be dangerous so you should try to avoid it. Be mindful of what can cause wet brakes and how to drive safely if your brakes do get wet.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-26"/>
+    </critdates>
+  <metadata> <keywords> <indexterm>brakes</indexterm> </keywords> </metadata>
+ </prolog>
+  <conbody>
+    <p> </p>
+    <p>The brake linings can become wet after the vehicle has been washed or driven through
+      water.</p>
+    <p id="handbrakewater">Keep the hand brake fully on when using high-pressue washing
+      equipment.</p>
+    <p>You can dry the brake linings by applying the brake several times when the vehicle is moving
+      slowly.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="directionindicators">
+  <title>Indicating turning</title>
+  <shortdesc>The direction indicators let you signal to other drivers which direction you intend to turn.</shortdesc>
+  <prolog>
+    <author>Felicity Brand</author><copyright><copyryear year="2014"></copyryear><copyrholder>This documentation project is free to redistribute and modify under the terms of the GNU General Public License Version 3. See the GNU General Public License or licence.txt for more details.</copyrholder></copyright> 
+    <critdates>
+      <created date="2014-07-06"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <indexterm>blinkers</indexterm>
+        <indexterm>indicators</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <taskbody>
+  <context>
+    <p>The direction indicators cause the indicator lights at the front and rear of the vehicle
+      exterior to flash intermittently.</p><p>These are operated by the switch lever on the right hand side of the steering wheel.</p>
+      <p>A light in the end of the switch lever indicates to the driver when a direction indicator
+        is in use.</p>
+    <note
+      conref="../snippets/leftright.dita#ReusableComponent_vfv_2g4_j4/leftrightnote"/>
+  
+    <p>The flashing direction indicators will only operate when the ignition is switched on.</p>
+  </context><steps-unordered id="steps-unordered_indicators">
+      <step>
+        <cmd>Move the switch lever upwards to operate the left-hand flashing indicator for turning
+          left.</cmd></step>
+      <step>
+        <cmd>Move the switch lever downwards to operate the right-hand flashing indicator for turning
+          right.</cmd></step></steps-unordered>
+      
+  </taskbody>
+</task>
